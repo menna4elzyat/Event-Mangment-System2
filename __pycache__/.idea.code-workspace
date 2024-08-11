@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../.idea"
+		},
+		{
+			"path": "../.venv"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../assests"
+		},
+		{
+			"path": "../Database folder"
+		},
+		{
+			"path": "../files"
+		}
+	]
+}
